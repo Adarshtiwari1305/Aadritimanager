@@ -22,9 +22,9 @@ The Easiest Way To Deploy This Bot Direct From GitHub
  
  
 # ❤️ Support
-<a href="https://t.me/Hitler_fed"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/thechamberofficial"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/RAVAN102030"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Hitler_fed"><img src="https://telegra.ph/file/e969b24b64133152cfd7a.jpg=Telegram"></a>
+<a href="https://t.me/thechamberofficial"><img src="https://telegra.ph/file/e969b24b64133152cfd7a.jpg=telegram"></a>
+<a href="https://t.me/RAVAN102030"><img src="https://telegra.ph/file/e969b24b64133152cfd7a.jpg=telegram"></a>
 
 
 ## CREDITS
