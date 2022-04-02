@@ -1,8 +1,8 @@
 # A Powerful Music And Management Bot
-# Property Of Rocks Indian Largest Chatting Group
+# Property Of  Adarsh and Shruti
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad + Harshit
+# Shruti  @shaitaan_bacchaa
+# Owner Adarsh +  Shruti
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
 
