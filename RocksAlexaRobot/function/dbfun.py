@@ -1,7 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful Manager bot of Adarsh and shruti 
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad + Harshit
+# Shruti  @shaitaan_bacchaa 
+# Owner Adarsh + Shruti 
 
 
 
