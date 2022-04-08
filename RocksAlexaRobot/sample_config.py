@@ -1,9 +1,9 @@
 # Create a new config.py or rename this to config.py file in same dir and import, then extend this class.
 # A Powerful Music And Management Bot
-# Property Of Rocks Indian Largest Chatting Group
+# Property Of Adarsh and shruti
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad + Harshit
+# Aadriti © @Shaitaan_bacchaa © Aadriti
+# Owner Adarsh + Shruti
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
 
@@ -23,14 +23,14 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 2091894  # integer value, dont use ""
-    API_HASH = "925ce96bd585205d6dac1b35e8e26a12"
+    API_ID = 5162428  # integer value, dont use ""
+    API_HASH = "8d4453c87f167039178c4f3321befc82"
     TOKEN = "1616584987:AAGiKBL-7Q4mihWH03AGtyBjfDNdp23zJVc"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1342820594 # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "Dr_Asad_Ali"
-    SUPPORT_CHAT = 'Shayri_Music_Lovers'  #Your own group for support, do not add the @
-    JOIN_LOGGER = -1001776076983  #Prints any new group the bot is added to, prints just the name and ID.
-    EVENT_LOGS = -1001776076983  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
+    OWNER_USERNAME = "Shaitaan_bacchaa"
+    SUPPORT_CHAT = 'Aadriti_fed'  #Your own group for support, do not add the @
+    JOIN_LOGGER = -1001503738396  #Prints any new group the bot is added to, prints just the name and ID.
+    EVENT_LOGS = -1001503738396  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     #RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'something://somewhat:user@hosturl:port/databasename'  # needed for any database modules
