@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>❤️ Aadriti GROUP MANAGEMENT BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ AADRITI GROUP MANAGEMENT BOT ❤️</b></h1>
 
 <h4 align="center">Aadriti Manager A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
